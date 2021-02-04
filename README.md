@@ -1,3 +1,5 @@
+![Grading workflow](https://github.com/hectorsector/turbo-telegram/actions/workflows/grading.yml/badge.svg)
+
 # Welcome to the lab on enabling GitHub Pages!
 
 - [About the codebase](#about-the-codebase)
